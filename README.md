@@ -1,3 +1,3 @@
 # BurgersHub App
 
-An app with plenty of burggers recipes.
+An app with plenty of burgers recipes.
